@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HX13hR07/X7wDzH9TF9Na7oJQRPTE7v5saO9AG0cC7HbNEM1K/4zx8DFGYrI6LGqEQy9M2QtXwtz6GSy1stPJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tijn\\Documents\\c#_SD2B_TJA\\opdr_textbased_game\\opdr_textbased_game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tijn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

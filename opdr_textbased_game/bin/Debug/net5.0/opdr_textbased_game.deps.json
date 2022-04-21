@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "opdr_textbased_game/1.0.0": {
+        "runtime": {
+          "opdr_textbased_game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opdr_textbased_game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
